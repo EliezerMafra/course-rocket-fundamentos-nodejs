@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/EliezerMafra/course-rocket-fundamentos-nodejs/issues"
   },
-  "homepage": "https://github.com/EliezerMafra/course-rocket-fundamentos-nodejs#readme"
+  "homepage": "https://github.com/EliezerMafra/course-rocket-fundamentos-nodejs#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "node": "^19.3.0"
+  }
 }
